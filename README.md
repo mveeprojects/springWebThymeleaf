@@ -1,9 +1,7 @@
 # springWebThymeleaf
 Simplest means I've found so far of building a spring web app with html frontend (rather than REST interface)
 
-Built using the Maven tutorial found here:
-
-https://spring.io/guides/gs/serving-web-content/
+Originally built using [this Maven tutorial](https://spring.io/guides/gs/serving-web-content/), since updated to Gradle using `gradle init`.
 
 **HomeController.java:**
 
@@ -16,4 +14,4 @@ https://spring.io/guides/gs/serving-web-content/
  - Values passed in through the _Model_ variable in HomeController.java are referenced using _'${var_name}'_ inside the html
 
 ### Links
-- [Write up on mveeprojects.wordpress.com](https://mveeprojects.wordpress.com/2017/11/11/good-thymes-with-spring-boot/).
+- [Original write up on mveeprojects.wordpress.com](https://mveeprojects.wordpress.com/2017/11/11/good-thymes-with-spring-boot/).
