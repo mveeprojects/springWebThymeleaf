@@ -13,5 +13,6 @@ Originally built using [this Maven tutorial](https://spring.io/guides/gs/serving
  - thymeleaf dependency declared in _<html>_ tag
  - Values passed in through the _Model_ variable in HomeController.java are referenced using _'${var_name}'_ inside the html
 
-### Links
+### Sources/links
 - [Original write up on mveeprojects.wordpress.com](https://mveeprojects.wordpress.com/2017/11/11/good-thymes-with-spring-boot/).
+- [Baeldung: Convert a Maven Build to Gradle](https://www.baeldung.com/maven-convert-to-gradle)
