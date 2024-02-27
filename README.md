@@ -14,3 +14,6 @@ https://spring.io/guides/gs/serving-web-content/
 
  - thymeleaf dependency declared in _<html>_ tag
  - Values passed in through the _Model_ variable in HomeController.java are referenced using _'${var_name}'_ inside the html
+
+### Links
+- [Write up on mveeprojects (Wordpress)](https://mveeprojects.wordpress.com/2017/11/11/good-thymes-with-spring-boot/).
